@@ -1,1 +1,215 @@
-hi
+{
+  "categories": [
+    {
+      "id": "android-native",
+      "name": "Android Native (Kotlin)",
+      "templates": [
+        {
+          "id": "android-basic",
+          "name": "Basic Template",
+          "description": "A clean, well-structured Android project with Kotlin and modern architecture components.",
+          "path": "https://raw.githubusercontent.com/PRAJWALSINGHKALWAD/Pro-Coding-Studio-Templates/main/templates/android-native/android-basic.zip",
+          "previewImageUrl": "https://raw.githubusercontent.com/PRAJWALSINGHKALWAD/Pro-Coding-Studio-Templates/main/previews/android-basic.png"
+        },
+        {
+          "id": "android-jetpack-compose",
+          "name": "Jetpack Compose Integrated",
+          "description": "Modern Android UI development with Jetpack Compose and Material Design 3.",
+          "path": "templates/android-native/jetpack-compose",
+          "previewImageUrl": "https://raw.githubusercontent.com/PRAJWALSINGHKALWAD/Pro-Coding-Studio-Templates/main/previews/android-compose.png"
+        },
+        {
+          "id": "android-firebase-auth",
+          "name": "Firebase Authentication",
+          "description": "Android app with Firebase Authentication integration and user management.",
+          "path": "templates/android-native/firebase-auth",
+          "previewImageUrl": "https://raw.githubusercontent.com/PRAJWALSINGHKALWAD/Pro-Coding-Studio-Templates/main/previews/android-firebase-auth.png"
+        },
+        {
+          "id": "android-firebase-database",
+          "name": "Firebase Firestore & Realtime Database",
+          "description": "Android app with Firebase Firestore and Realtime Database integration.",
+          "path": "templates/android-native/firebase-database",
+          "previewImageUrl": "https://raw.githubusercontent.com/PRAJWALSINGHKALWAD/Pro-Coding-Studio-Templates/main/previews/android-firebase-db.png"
+        },
+        {
+          "id": "android-github-actions",
+          "name": "GitHub Actions Ready",
+          "description": "Android project with CI/CD setup using GitHub Actions for automated testing and deployment.",
+          "path": "templates/android-native/github-actions",
+          "previewImageUrl": "https://raw.githubusercontent.com/PRAJWALSINGHKALWAD/Pro-Coding-Studio-Templates/main/previews/android-github.png"
+        }
+      ]
+    },
+    {
+      "id": "flutter",
+      "name": "Flutter",
+      "templates": [
+        {
+          "id": "flutter-basic",
+          "name": "Basic Template",
+          "description": "A clean Flutter project with proper folder structure and state management setup.",
+          "path": "templates/flutter/basic-template",
+          "previewImageUrl": "https://raw.githubusercontent.com/PRAJWALSINGHKALWAD/Pro-Coding-Studio-Templates/main/previews/flutter-basic.png"
+        },
+        {
+          "id": "flutter-firebase",
+          "name": "Firebase Integration (Auth, Firestore)",
+          "description": "Flutter app with Firebase Authentication and Firestore database integration.",
+          "path": "templates/flutter/firebase-integration",
+          "previewImageUrl": "https://raw.githubusercontent.com/PRAJWALSINGHKALWAD/Pro-Coding-Studio-Templates/main/previews/flutter-firebase.png"
+        },
+        {
+          "id": "flutter-local-db",
+          "name": "Local Database (Hive, SQLite)",
+          "description": "Flutter app with local database integration using Hive and SQLite.",
+          "path": "templates/flutter/local-database",
+          "previewImageUrl": "https://raw.githubusercontent.com/PRAJWALSINGHKALWAD/Pro-Coding-Studio-Templates/main/previews/flutter-local-db.png"
+        },
+        {
+          "id": "flutter-github-actions",
+          "name": "GitHub Actions Ready",
+          "description": "Flutter project with CI/CD setup using GitHub Actions for automated testing and deployment.",
+          "path": "templates/flutter/github-actions",
+          "previewImageUrl": "https://raw.githubusercontent.com/PRAJWALSINGHKALWAD/Pro-Coding-Studio-Templates/main/previews/flutter-github.png"
+        }
+      ]
+    },
+    {
+      "id": "react-native",
+      "name": "React Native",
+      "templates": [
+        {
+          "id": "react-native-basic",
+          "name": "Basic Template",
+          "description": "A clean React Native project with TypeScript and proper folder structure.",
+          "path": "templates/react-native/basic-template",
+          "previewImageUrl": "https://raw.githubusercontent.com/PRAJWALSINGHKALWAD/Pro-Coding-Studio-Templates/main/previews/react-native-basic.png"
+        },
+        {
+          "id": "react-native-firebase",
+          "name": "Firebase Integration",
+          "description": "React Native app with Firebase integration for authentication and database.",
+          "path": "templates/react-native/firebase-integration",
+          "previewImageUrl": "https://raw.githubusercontent.com/PRAJWALSINGHKALWAD/Pro-Coding-Studio-Templates/main/previews/react-native-firebase.png"
+        },
+        {
+          "id": "react-native-expo",
+          "name": "Expo Managed Workflow",
+          "description": "React Native app using Expo managed workflow for easier development and deployment.",
+          "path": "templates/react-native/expo-workflow",
+          "previewImageUrl": "https://raw.githubusercontent.com/PRAJWALSINGHKALWAD/Pro-Coding-Studio-Templates/main/previews/react-native-expo.png"
+        },
+        {
+          "id": "react-native-github-actions",
+          "name": "GitHub Actions Ready",
+          "description": "React Native project with CI/CD setup using GitHub Actions for automated testing and deployment.",
+          "path": "templates/react-native/github-actions",
+          "previewImageUrl": "https://raw.githubusercontent.com/PRAJWALSINGHKALWAD/Pro-Coding-Studio-Templates/main/previews/react-native-github.png"
+        }
+      ]
+    },
+    {
+      "id": "ionic",
+      "name": "Ionic Framework",
+      "templates": [
+        {
+          "id": "ionic-basic",
+          "name": "Basic Template",
+          "description": "A clean Ionic Framework project with proper folder structure.",
+          "path": "templates/ionic/basic-template",
+          "previewImageUrl": "https://raw.githubusercontent.com/PRAJWALSINGHKALWAD/Pro-Coding-Studio-Templates/main/previews/ionic-basic.png"
+        },
+        {
+          "id": "ionic-angular",
+          "name": "Angular Integration",
+          "description": "Ionic app with Angular integration for hybrid mobile development.",
+          "path": "templates/ionic/angular-integration",
+          "previewImageUrl": "https://raw.githubusercontent.com/PRAJWALSINGHKALWAD/Pro-Coding-Studio-Templates/main/previews/ionic-angular.png"
+        },
+        {
+          "id": "ionic-firebase",
+          "name": "Firebase Support",
+          "description": "Ionic app with Firebase integration for authentication and database.",
+          "path": "templates/ionic/firebase-support",
+          "previewImageUrl": "https://raw.githubusercontent.com/PRAJWALSINGHKALWAD/Pro-Coding-Studio-Templates/main/previews/ionic-firebase.png"
+        },
+        {
+          "id": "ionic-github-actions",
+          "name": "GitHub Actions Ready",
+          "description": "Ionic project with CI/CD setup using GitHub Actions for automated testing and deployment.",
+          "path": "templates/ionic/github-actions",
+          "previewImageUrl": "https://raw.githubusercontent.com/PRAJWALSINGHKALWAD/Pro-Coding-Studio-Templates/main/previews/ionic-github.png"
+        }
+      ]
+    },
+    {
+      "id": "xamarin",
+      "name": "Xamarin (C#)",
+      "templates": [
+        {
+          "id": "xamarin-basic",
+          "name": "Basic Template",
+          "description": "A clean Xamarin project with proper folder structure for cross-platform mobile development.",
+          "path": "templates/xamarin/basic-template",
+          "previewImageUrl": "https://raw.githubusercontent.com/PRAJWALSINGHKALWAD/Pro-Coding-Studio-Templates/main/previews/xamarin-basic.png"
+        },
+        {
+          "id": "xamarin-maui",
+          "name": ".NET MAUI Support",
+          "description": "Xamarin project with .NET MAUI support for modern cross-platform development.",
+          "path": "templates/xamarin/maui-support",
+          "previewImageUrl": "https://raw.githubusercontent.com/PRAJWALSINGHKALWAD/Pro-Coding-Studio-Templates/main/previews/xamarin-maui.png"
+        },
+        {
+          "id": "xamarin-firebase-auth",
+          "name": "Firebase Authentication",
+          "description": "Xamarin app with Firebase Authentication integration.",
+          "path": "templates/xamarin/firebase-auth",
+          "previewImageUrl": "https://raw.githubusercontent.com/PRAJWALSINGHKALWAD/Pro-Coding-Studio-Templates/main/previews/xamarin-firebase.png"
+        },
+        {
+          "id": "xamarin-github-actions",
+          "name": "GitHub Actions Ready",
+          "description": "Xamarin project with CI/CD setup using GitHub Actions for automated testing and deployment.",
+          "path": "templates/xamarin/github-actions",
+          "previewImageUrl": "https://raw.githubusercontent.com/PRAJWALSINGHKALWAD/Pro-Coding-Studio-Templates/main/previews/xamarin-github.png"
+        }
+      ]
+    },
+    {
+      "id": "swift",
+      "name": "Swift (iOS)",
+      "templates": [
+        {
+          "id": "swift-basic",
+          "name": "Basic Template",
+          "description": "A clean Swift project with proper folder structure for iOS development.",
+          "path": "templates/swift/basic-template",
+          "previewImageUrl": "https://raw.githubusercontent.com/PRAJWALSINGHKALWAD/Pro-Coding-Studio-Templates/main/previews/swift-basic.png"
+        },
+        {
+          "id": "swift-ui-kit",
+          "name": "UIKit & SwiftUI Options",
+          "description": "Swift project with both UIKit and SwiftUI options for flexible iOS UI development.",
+          "path": "templates/swift/ui-options",
+          "previewImageUrl": "https://raw.githubusercontent.com/PRAJWALSINGHKALWAD/Pro-Coding-Studio-Templates/main/previews/swift-ui.png"
+        },
+        {
+          "id": "swift-firebase",
+          "name": "Firebase Integration",
+          "description": "Swift app with Firebase integration for authentication and database.",
+          "path": "templates/swift/firebase-integration",
+          "previewImageUrl": "https://raw.githubusercontent.com/PRAJWALSINGHKALWAD/Pro-Coding-Studio-Templates/main/previews/swift-firebase.png"
+        },
+        {
+          "id": "swift-github-actions",
+          "name": "GitHub Actions Ready",
+          "description": "Swift project with CI/CD setup using GitHub Actions for automated testing and deployment.",
+          "path": "templates/swift/github-actions",
+          "previewImageUrl": "https://raw.githubusercontent.com/PRAJWALSINGHKALWAD/Pro-Coding-Studio-Templates/main/previews/swift-github.png"
+        }
+      ]
+    }
+  ]
+}
