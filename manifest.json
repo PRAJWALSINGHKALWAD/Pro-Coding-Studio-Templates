@@ -15,7 +15,7 @@
           "id": "android-jetpack-compose",
           "name": "Jetpack Compose Integrated",
           "description": "Modern Android UI development with Jetpack Compose and Material Design 3.",
-          "path": "templates/android-native/jetpack-compose",
+          "path": "https://raw.githubusercontent.com/PRAJWALSINGHKALWAD/Pro-Coding-Studio-Templates/main/templates/android-native/jetpack-compose.zip",
           "previewImageUrl": "https://raw.githubusercontent.com/PRAJWALSINGHKALWAD/Pro-Coding-Studio-Templates/main/previews/android-compose.png"
         },
         {
